@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490259959 source:d:\code\ada\lcs\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

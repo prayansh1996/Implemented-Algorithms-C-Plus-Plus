@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1489687261 source:d:\code\ada\qsort\test\main.cpp
+	<algorithm>
+	<iostream>
+	<vector>
+	<random>
+	<time.h>
+

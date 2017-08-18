@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1487194100 source:g:\code\ada\bubble-sort\all\main.cpp
+	<algorithm>
+	<iostream>
+	<vector>
+	<time.h>
+

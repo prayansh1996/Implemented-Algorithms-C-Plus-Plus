@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1490862481 source:d:\code\ada\dfs\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<list>
+	<queue>
+	<stack>
+	<map>
+	<set>
+	<functional>
+	<unordered_map>
+	<unordered_set>
+	<limits.h>
+	<cmath>
+	<stdio.h>
+	<fstream>
+

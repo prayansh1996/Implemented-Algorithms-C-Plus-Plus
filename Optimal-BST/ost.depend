@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490296150 source:d:\code\ada\ost\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1487252048 source:g:\code\ada\merge-sort\all\main.cpp
+	<algorithm>
+	<iostream>
+	<vector>
+	<random>
+	<time.h>
+
+1489677319 source:d:\code\ada\merge-sort\all\main.cpp
+	<algorithm>
+	<iostream>
+	<vector>
+	<random>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489582806 source:d:\code\ada\counting-sort\test\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

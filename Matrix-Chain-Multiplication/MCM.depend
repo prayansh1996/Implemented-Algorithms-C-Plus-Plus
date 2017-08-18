@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1488023071 source:g:\code\ada\others\mcm\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<list>
+	<queue>
+	<map>
+	<set>
+	<functional>
+	<unordered_map>
+	<unordered_set>
+	<limits.h>
+	<cmath>
+	<stdio.h>
+	<fstream>
+
+1489685216 source:d:\code\ada\mcm\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<list>
+	<queue>
+	<map>
+	<set>
+	<functional>
+	<unordered_map>
+	<unordered_set>
+	<limits.h>
+	<cmath>
+	<stdio.h>
+	<fstream>
+

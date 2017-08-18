@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1487199301 source:g:\code\ada\insertion-sort\isort\main.cpp
+	<algorithm>
+	<iostream>
+	<vector>
+	<random>
+	<time.h>
+
+1487199301 
+
+1487199419 source:/media/prayansh/Images/Code/ada/insertion-sort/isort/main.cpp
+	<algorithm>
+	<iostream>
+	<vector>
+	<random>
+	<time.h>
+
+1487199419 source:d:\code\ada\insertion-sort\isort\main.cpp
+	<algorithm>
+	<iostream>
+	<vector>
+	<random>
+	<time.h>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1488029209 source:g:\code\ada\others\optimalbst\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<list>
+	<queue>
+	<map>
+	<set>
+	<functional>
+	<unordered_map>
+	<unordered_set>
+	<limits.h>
+	<cmath>
+	<stdio.h>
+	<fstream>
+

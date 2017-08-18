@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1490553708 source:d:\code\ada\topological-sort\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<list>
+	<queue>
+	<map>
+	<set>
+	<functional>
+	<unordered_map>
+	<unordered_set>
+	<limits.h>
+	<cmath>
+	<stdio.h>
+	<fstream>
+
